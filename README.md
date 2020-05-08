@@ -1,2 +1,0 @@
-# pythonbirds
-aulas módulo pythonbird
